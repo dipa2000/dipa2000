@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 + Machine Learning  Enthusiastic
 + Artificial Learning
 + Deep Learning
++Done Certain Projects on NLP, OpenCV and  ML
