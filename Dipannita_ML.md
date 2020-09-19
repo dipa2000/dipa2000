@@ -12,10 +12,11 @@
 + Cross Validation
 + '''
 
- # Deep Learning
-Backpropagation
-ANN
-Activation Function
-Hyperparameter Tuning
-Optimization
-
++ # Deep Learning
++ '''
++ Backpropagation
++ ANN
++ Activation Function
++ Hyperparameter Tuning
++ Optimization
++ '''
