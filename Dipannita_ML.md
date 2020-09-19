@@ -1,5 +1,5 @@
   
-+ #  Machine Learning Topics
+  #  Machine Learning Topics
 + '''
 + linear Regression
 + Logistics Regression
@@ -12,7 +12,7 @@
 + Cross Validation
 + '''
 
-+ # Deep Learning
+  # Deep Learning
 + '''
 + Backpropagation
 + ANN
