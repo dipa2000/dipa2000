@@ -1,5 +1,5 @@
   #  Machine Learning Topics
-
+'''
 linear Regression
 Logistics Regression
 Decision Trees
@@ -8,8 +8,8 @@ Support Vector Machine
 Naive Bayes
 K means
 K-NN
-Cross Validation+
-
+Cross Validation
+'''
 
  # Deep Learning
 Backpropagation
