@@ -1,5 +1,5 @@
   
-  #  Machine Learning Topics
+  # Machine Learning Topics
 
 + linear Regression
 + Logistics Regression
