@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
++'''
 + data science stdent
 + Machine Learning  Enthusiastic
 + Artificial Learning
 + Deep Learning
 +Done Certain Projects on NLP, OpenCV and  ML
++'''
