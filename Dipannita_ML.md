@@ -1,6 +1,6 @@
   
   #  Machine Learning Topics
-+ '''
+
 + linear Regression
 + Logistics Regression
 + Decision Trees
@@ -10,13 +10,13 @@
 + K means
 + K-NN
 + Cross Validation
-+ '''
+
 
   # Deep Learning
-+ '''
+
 + Backpropagation
 + ANN
 + Activation Function
 + Hyperparameter Tuning
 + Optimization
-+ '''
+
