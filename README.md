@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 + data science stdent
++ Machine Learning
++ Artificial Learning
++ Deep Learning
